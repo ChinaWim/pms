@@ -1,0 +1,78 @@
+2018-2-13 16:12:28 417  modulefile=C:\Users\Ming\AppData\Local\liebao\6.5.115.17898\uninst.exe,installPath=C:\Users\Ming\AppData\Local\liebao\
+2018-2-13 16:12:32 151  RunApp szPath=C:\Users\Ming\AppData\Local\Temp\uninst.exe,szCmd=explorer.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2018-2-13 16:12:40 398  modulefile=C:\Users\Ming\AppData\Local\liebao\6.5.115.17898\uninst.exe,installPath=C:\Users\Ming\AppData\Local\liebao\
+2018-2-13 16:12:55 958  GetDebugPrivilege bRet=1,code=0
+
+2018-2-13 16:13:17 225  modulefile=C:\Users\Ming\AppData\Local\liebao\6.5.115.17898\uninst.exe,installPath=C:\Users\Ming\AppData\Local\liebao\
+2018-2-13 16:13:23 971  RunApp szPath=C:\Users\Ming\AppData\Local\Temp\uninst.exe,szCmd=explorer.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2018-2-13 16:13:30 343  modulefile=C:\Users\Ming\AppData\Local\liebao\6.5.115.17898\uninst.exe,installPath=C:\Users\Ming\AppData\Local\liebao\
+2018-2-13 16:13:30 654  RunApp bRet=1
+
+2018-2-13 16:13:30 655  RunApp bRet=1
+
+2018-2-13 16:13:30 696  modulefile=C:\Users\Ming\AppData\Local\Temp\uninst.exe,installPath=C:\Users\Ming\AppData\Local\liebao\
+2018-2-13 16:13:30 718  modulefile=C:\Users\Ming\AppData\Local\Temp\uninst.exe,installPath=C:\Users\Ming\AppData\Local\liebao\
+2018-2-13 16:14:47 590  modulefile=C:\Users\Ming\AppData\Local\liebao\6.5.115.17898\uninst.exe,installPath=C:\Users\Ming\AppData\Local\liebao\
+2018-2-13 16:14:47 643  RunApp szPath=C:\Users\Ming\AppData\Local\Temp\uninst.exe,szCmd=dllhost.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2018-2-13 16:14:47 678  RunApp bRet=1
+
+2018-2-13 16:14:47 711  modulefile=C:\Users\Ming\AppData\Local\Temp\uninst.exe,installPath=C:\Users\Ming\AppData\Local\liebao\
+2018-2-13 16:14:55 343  RealDownloadUninstallConfigFunc start
+2018-2-13 16:14:55 419  URLDownloadToFile start 0x0
+2018-2-13 16:14:55 421  RealDownloadUninstallConfigFunc end
+2018-2-13 16:14:55 431  DeleteShortcut begin!!
+2018-2-13 16:14:55 434  CreateShellLink start...
+2018-2-13 16:14:55 437  Save = 0x80070002
+2018-2-13 16:14:55 452  DeleteShortcut end!!
+2018-2-13 16:14:55 465  DeleteProductFile begin!!
+2018-2-13 16:14:55 467  File C Not Exits
+2018-2-13 16:14:55 467  DeleteProductFile end!!
+2018-2-13 16:14:55 467  StopSvr begin!!
+2018-2-13 16:14:55 467  StopSvr = C:\Users\Ming\AppData\Local\liebao\6.5.115.17898 
+
+2018-2-13 16:14:55 468  GetDebugPrivilege bRet=1,code=0
+
+2018-2-13 16:14:55 468  KillProcessByPath Begin
+
+2018-2-13 16:14:55 468  KillProcessByPath path:\Device\HarddiskVolume1\Users\Ming\AppData\Local\liebao\6.5.115.17898\knbcenter.exe
+2018-2-13 16:14:55 491  Terminate process WaitForSingleObject WAIT_OBJECT_0
+2018-2-13 16:14:55 492  KillProcessByPath End
+
+2018-2-13 16:14:55 492  StopSvr dwcode=0
+2018-2-13 16:14:55 492  StopSvr end!!
+2018-2-13 16:14:55 750  ClearBDHDFolder begin!!
+2018-2-13 16:14:55 750  ClearBDHDFolder end!!
+2018-2-28 12:51:17 260  modulefile=C:\Users\Ming\AppData\Local\liebao\6.5.115.17898\uninst.exe,installPath=C:\Users\Ming\AppData\Local\liebao\
+2018-2-28 12:51:17 375  RunApp szPath=C:\Users\Ming\AppData\Local\Temp\uninst.exe,szCmd=explorer.exe,dwWaitTime=0,bShow=1,bWaitTimeTermination=0
+
+2018-2-28 12:51:48 556  RunApp bRet=1
+
+2018-2-28 12:51:48 601  modulefile=C:\Users\Ming\AppData\Local\Temp\uninst.exe,installPath=C:\Users\Ming\AppData\Local\liebao\
+2018-2-28 12:52:00 604  RealDownloadUninstallConfigFunc start
+2018-2-28 12:52:00 671  URLDownloadToFile start 0x0
+2018-2-28 12:52:00 672  RealDownloadUninstallConfigFunc end
+2018-2-28 12:52:00 802  DeleteShortcut begin!!
+2018-2-28 12:52:00 806  CreateShellLink start...
+2018-2-28 12:52:00 812  Save = 0x80070002
+2018-2-28 12:52:00 828  DeleteShortcut end!!
+2018-2-28 12:52:00 840  DeleteProductFile begin!!
+2018-2-28 12:52:00 842  File C Not Exits
+2018-2-28 12:52:00 842  DeleteProductFile end!!
+2018-2-28 12:52:00 842  StopSvr begin!!
+2018-2-28 12:52:00 842  StopSvr = C:\Users\Ming\AppData\Local\liebao\6.5.115.17898 
+
+2018-2-28 12:52:00 842  GetDebugPrivilege bRet=1,code=0
+
+2018-2-28 12:52:00 842  KillProcessByPath Begin
+
+2018-2-28 12:52:00 842  KillProcessByPath path:\Device\HarddiskVolume1\Users\Ming\AppData\Local\liebao\6.5.115.17898\knbcenter.exe
+2018-2-28 12:52:00 877  Terminate process WaitForSingleObject WAIT_OBJECT_0
+2018-2-28 12:52:00 877  KillProcessByPath End
+
+2018-2-28 12:52:00 877  StopSvr dwcode=0
+2018-2-28 12:52:00 877  StopSvr end!!
+2018-2-28 12:52:07 671  ClearBDHDFolder begin!!
+2018-2-28 12:52:07 671  ClearBDHDFolder end!!
