@@ -1,6 +1,8 @@
 package com.pms.exception;
 
 import com.pms.dto.JsonResult;
+import org.apache.log4j.Logger;
+import org.apache.log4j.spi.LoggerFactory;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
@@ -16,14 +18,13 @@ import java.io.IOException;
  */
 @ControllerAdvice
 public class GlobalException {
-
+    private static Logger logger = Logger.getLogger(GlobalException.class);
 
     @ExceptionHandler(Exception.class)
     @ResponseBody
     public JsonResult globalException(Exception e, HttpServletRequest request, HttpServletResponse response) throws Exception {
         request.setAttribute("msg",e.getMessage());
-        System.out.println(e.getMessage());
-
+        logger.error(e.getMessage());
         return new JsonResult(false,"错误信息："+e.getMessage());
     }
 }

@@ -24,9 +24,7 @@
             <mvc:mapping path="/**"/>
             <bean class="com.pms.comment.interceptor.LoginInterceptor" >
             </bean>
-
         </mvc:interceptor>
-
     </mvc:interceptors>
     <!-- 文件上传-->
     <bean id ="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">

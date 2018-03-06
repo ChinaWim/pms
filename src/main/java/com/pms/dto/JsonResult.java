@@ -1,5 +1,4 @@
 package com.pms.dto;
-import com.pms.enums.ResultEnum;
 
 /**
  * 返回给前端的json数据
