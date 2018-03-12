@@ -91,7 +91,7 @@ public class StudentServiceImpl implements StudentService {
                 List<Preselection> preselections = preselectionMapper.selectByExample(example);
                 if(preselections != null && preselections.size() >0){
                     for (Preselection preselection : preselections) {
-                        if(preselection.getPreFlag() == 1)
+                        if(preselection.getPreFlag() == 1) // 1已经选了老师 0未选
                             return new JsonResult(false,"选择失败!你已经选择了老师!");
                     }
                 }
