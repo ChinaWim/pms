@@ -1,7 +1,7 @@
 # pms
 在线测试与论文管理系统
 <h1>说明:</h1>
-前端基于easyui + bootstrap,后端基于ssm（前后独立完成）<br/>
+前端基于easyui + bootstrap,后端基于ssm+jsp+mysql（前后独立完成）<br/>
 <a href = "http://118.89.50.153:8080/pms">访问地址</a>(admin/admin)
 <h1>功能简介:</h1>
 学生：科目测试,查看测试报告,预选老师,论文上传与下载,修改个人信息.<br>
